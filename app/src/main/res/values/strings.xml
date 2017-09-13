@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kashiery</string>
+    <string name="Scan_Instruction"> Scan_Instruction:- \n
+        you should move the red line in camera on the \n
+        bar code from bottom to top</string>
+
+</resources>
